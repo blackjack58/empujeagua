@@ -18,10 +18,6 @@ class schilthuis():
 
         return We_schilthuis
     
-    import pandas as pd
-
-df = pd.read_csv('dry_gas_with_waterdrive.csv', sep=';')
-print(df)
 
 
 #metodo fetkovich
