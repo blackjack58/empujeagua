@@ -595,7 +595,7 @@ class oil():
                    fancybox=True, framealpha=0.7, 
                    handlelength=0, handletextpad=0)  
         
-        plt.tight_layout(1)
+        plt.tight_layout()
         plt.show()
 
       if oil_type == 'saturated':
