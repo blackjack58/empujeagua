@@ -97,7 +97,7 @@ class fetkovich():
         return We_fetkovich
     
     class veh():
-    def calculate_aquifer_constant(self, r_R, h, cf, cw, poro, theta=360):
+        def calculate_aquifer_constant(self, r_R, h, cf, cw, poro, theta=360):
         """
         Calculate theoretical aquifer constant for VEH (assuming cylindrical reservoir)
 
